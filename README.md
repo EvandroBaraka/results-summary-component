@@ -27,8 +27,8 @@ Tornar possível para o usuário:
 
 ### Links
 
-- URL Solução: [https://github.com/EvandroBaraka/huddle-landing-page.git](https://github.com/EvandroBaraka/huddle-landing-page.git)
-- URL Site: [https://evandrobaraka.github.io/huddle-landing-page/](https://evandrobaraka.github.io/huddle-landing-page/)
+- URL Solução: [https://github.com/EvandroBaraka/results-summary-component](https://github.com/EvandroBaraka/results-summary-component)
+- URL Site: [https://evandrobaraka.github.io/results-summary-component/](https://evandrobaraka.github.io/results-summary-component/)
 
 ## Meu Processo
 
